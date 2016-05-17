@@ -148,7 +148,7 @@ Let's see how we can get the current value of the `query` model to appear in the
 * Add an end-to-end test into the `describe` block, `test/e2e/scenarios.js` should look like this:
 
   ```js
-    describe('PhoneCat App', function() {
+    describe('PhoneCatApp', function() {
 
       describe('Phone list view', function() {
     
